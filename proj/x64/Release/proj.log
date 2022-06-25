@@ -1,0 +1,27 @@
+﻿  algorytm.cpp
+  main.cpp
+  okno.cpp
+C:\Users\Mikołaj\Desktop\c++ projekt\chyba ostateczny\New folder\proj2801\proj\okno.cpp(23,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mikołaj\Desktop\c++ projekt\chyba ostateczny\New folder\proj2801\proj\okno.cpp(28,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Mikołaj\Desktop\c++ projekt\chyba ostateczny\New folder\proj2801\proj\okno.cpp(314,50): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mikołaj\Desktop\c++ projekt\chyba ostateczny\New folder\proj2801\proj\okno.cpp(315,50): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mikołaj\Desktop\c++ projekt\chyba ostateczny\New folder\proj2801\proj\okno.cpp(376,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mikołaj\Desktop\c++ projekt\chyba ostateczny\New folder\proj2801\proj\okno.cpp(385,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mikołaj\Desktop\c++ projekt\chyba ostateczny\New folder\proj2801\proj\okno.cpp(394,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mikołaj\Desktop\c++ projekt\chyba ostateczny\New folder\proj2801\proj\okno.cpp(490,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mikołaj\Desktop\c++ projekt\chyba ostateczny\New folder\proj2801\proj\okno.cpp(940,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mikołaj\Desktop\c++ projekt\chyba ostateczny\New folder\proj2801\proj\okno.cpp(958,25): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  477 of 489 functions (97.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  proj.vcxproj -> C:\Users\Mikołaj\Desktop\c++ projekt\chyba ostateczny\New folder\proj2801\x64\Release\proj.exe
